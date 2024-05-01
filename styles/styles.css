@@ -1,3 +1,31 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    background-color: #ffffff;
+}
+
+ul,li,a {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.header {}
+
+.logo {}
+
+.menu {}
+
+.hero {}
+
+.effective {}
+
+.section1 {}
+
+.section2 {}
+
+.section4 {}
+
+
+
 .hero {
 background-color: #2E2F42;
 Width: 1440
