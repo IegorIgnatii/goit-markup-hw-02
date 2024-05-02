@@ -8,25 +8,83 @@ ul,li,a {
     list-style-type: none;
 }
 
-.header {}
-
-.logo {}
-
-.menu {}
-
-.hero {}
-
-.effective {}
-
-.section1 {}
-
-.section2 {}
-
-.section4 {}
+address {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
 
+.header {
+    width: 1440px;
+    height: 72px;
+}
+
+.logo {
+    width: 115px;
+    height: 24px;
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 0px;
+}
+
+.menu {
+    width: 261px;
+    height: 24px;
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.nav {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
 .hero {
-background-color: #2E2F42;
-Width: 1440
+    width: 1440px;
+    height: 600px;}
+
+.effective {
+    
 }
+
+.section1 {
+    width: 1128px;
+    height: 104px;
+}
+
+.section2 {
+    width: 1440px;
+    height: 732px;
+}
+
+.section3 {
+    width: 1128px;
+    height: 1000px;
+}
+
+.footer {
+    width: 1440px;
+    height: 312px;
+}
+
+.web {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
