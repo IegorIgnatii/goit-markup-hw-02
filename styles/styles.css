@@ -8,20 +8,31 @@ ul,li,a {
     list-style-type: none;
 }
 
-address {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-nav {
+.logo {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
 
 }
 
-.logo {}
+.Web {color: #4D5AE5;
+}
+
+.Studio {color:#2E2F42;
+}
+
 
 .menu {}
 
-.nav {}
+.menu-link {
+    
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
