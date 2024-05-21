@@ -6,11 +6,13 @@ body {
 }
 
 ul,
-li,
+li{
+    list-style-type: none;
+}
+
 a {
     text-decoration: none;
-    list-style-type: none;
-    margin: 0;
+    color: currentColor;
 }
 
 h1,
