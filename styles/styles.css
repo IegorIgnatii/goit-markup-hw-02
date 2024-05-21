@@ -27,24 +27,90 @@ p {
 
 /* #region header */
 
+.header {}
+
+.logo-link {}
+
+.nav-list {}
+
+.nav-item {}
+
+.nav-link {}
+
+.header-address {}
+
+.address-list {}
+
+.address-item {}
+
+.address-link {}
+
 /* #endregion header */
 
 /* #region hero */
+
+.hero {}
+
+.hero-title {}
+
+.hero-btn {}
 
 /* #endregion hero */
 
 /* #region section1 */
 
+.advantage {}
+
+.advantage-list {}
+
+.advantage-item {}
+
+.advantage-title {}
+
+.advantage-text {}
+
 /* #endregion section1 */
 
 /* #region section2 */
+
+.team {}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {}
+
+.team-imege {}
+
+.team-imege-title {}
+
+.team-imege-text {}
 
 /* #endregion section2 */
 
 /* #region section3 */
 
+.portfolio {}
+
+.portfolio-title {}
+
+.portfolio-list {}
+
+.portfolio-item {}
+
+.portfolio-image {}
+
+.portfolio-image-title {}
+
+.portfolio-image-text {}
+
 /* #endregion section3 */
 
 /* #region footer */
+
+.logo-footer-link {}
+
+.text-footer-link {}
 
 /* #endregion footer */
