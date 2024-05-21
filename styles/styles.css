@@ -200,9 +200,7 @@ address {
 
 .portfolio-item {}
 
-.portfolio-image {
-    background-color: green;
-}
+.portfolio-image {}
 
 .portfolio-subtitle {
     font-weight: 500;
