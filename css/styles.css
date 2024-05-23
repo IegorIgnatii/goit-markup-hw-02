@@ -1,7 +1,7 @@
 /* #region base */
 
 body {
-    font-family: "Roboto", "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #ffffff;
     color: #2E2F42;
 }
@@ -51,12 +51,10 @@ address {
 }
 
 .logo-paint {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .nav-list {}
-
-.nav-item {}
 
 .nav-link {
     font-weight: 500;
@@ -76,8 +74,6 @@ address {
 .header-address {}
 
 .address-list {}
-
-.address-item {}
 
 .address-link {
     font-weight: 400;
@@ -105,12 +101,12 @@ address {
 }
 
 .hero-btn {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
 }
@@ -126,11 +122,11 @@ address {
 
 .advantage {}
 
+.advantage-title {}
+
 .advantage-list {}
 
-.advantage-item {}
-
-.advantage-title {
+.advantage-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -149,7 +145,9 @@ address {
 
 /* #region section2 */
 
-.team {}
+.team {
+    background-color: #F4F4FD;
+}
 
 .team-title {
     font-weight: 700;
@@ -161,7 +159,9 @@ address {
 
 .team-list {}
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF
+}
 
 .team-imege {}
 
@@ -189,6 +189,7 @@ address {
 .portfolio {}
 
 .portfolio-title {
+    text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -224,7 +225,7 @@ footer{
     background-color: #2e2f42;
 }
 
-.logo-footer-link {
+.footer-link {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -234,7 +235,11 @@ footer{
     color: #f4f4fd;
 }
 
-.text-footer-link {
+.footer-span {
+    color: #f4f4fd
+}
+
+.text-footer {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
