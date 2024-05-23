@@ -47,10 +47,10 @@ address {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
-.logo-paint {
+.logo-span {
     color: #2e2f42;
 }
 
@@ -232,11 +232,11 @@ footer{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;
+    color: #4d5ae5;
 }
 
 .footer-span {
-    color: #f4f4fd
+    color: #f4f4fd;
 }
 
 .text-footer {
