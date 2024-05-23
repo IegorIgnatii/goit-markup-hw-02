@@ -172,6 +172,7 @@ address {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
 
 .team-imege-text {
@@ -221,7 +222,7 @@ address {
 
 /* #region footer */
 
-footer{
+.footer{
     background-color: #2e2f42;
 }
 
