@@ -38,13 +38,12 @@ address {
 
 /* #region header */
 
-.header {}
+.navig {}
 
 .logo-link {
-    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.16667;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -54,8 +53,6 @@ address {
     color: #2e2f42;
 }
 
-.nav-list {}
-
 .nav-link {
     font-weight: 500;
     font-size: 16px;
@@ -63,19 +60,25 @@ address {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .nav-link:hover,
 .nav-link:focus,
-.address-link:hover,
-.address-link:focus {
+.adress-link:hover,
+.adress-link:focus {
     color: #404bbf;
 }
+
+
+.nav-item {}
+
+.nav-list {}
 
 .header-address {}
 
 .address-list {}
 
-.address-link {
+.address-item {}
+
+.adress-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
