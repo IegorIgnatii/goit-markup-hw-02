@@ -3,11 +3,11 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color: #ffffff;
-    color: #2E2F42;
+    color: #434455;
 }
 
 ul,
-li{
+li {
     list-style-type: none;
 }
 
@@ -41,7 +41,7 @@ address {
 .header {}
 
 .logo-link {
-    font-family:"Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -112,7 +112,7 @@ address {
 }
 
 .hero-btn:focus,
-.hero-btn:hover{
+.hero-btn:hover {
     background-color: #404bbf;
 }
 
@@ -222,7 +222,7 @@ address {
 
 /* #region footer */
 
-.footer{
+.footer {
     background-color: #2e2f42;
 }
 
